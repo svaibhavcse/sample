@@ -1,1 +1,1 @@
-# sample
+printf("hello world");
